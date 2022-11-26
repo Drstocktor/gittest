@@ -7,6 +7,8 @@
 **Lorem** ipsum dolor sit amet, consectetur adipiscing elit.  
 Morbi posuere *nisi* a quam consectetur laoreet.
 
+Logga in här(https://www.ithsdistans.se/).
+
 1. Nyttja flashcards
 1. Häng med under föreläsningarna
 1. Lek med databaser
