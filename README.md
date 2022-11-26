@@ -4,7 +4,7 @@
 
 >Hejsan svejsan. Här är en text i en README.md filsom kommer att commitas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+**Lorem** ipsum dolor sit amet, consectetur adipiscing elit.  
 Morbi posuere nisi a quam consectetur laoreet.
 
 1. Nyttja flashcards
